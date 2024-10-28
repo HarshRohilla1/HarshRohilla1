@@ -5,5 +5,5 @@
 💭 Currently i am learning Ktor framework<br/>
 📍 My ongoing project in called a [PG Locator](https://github.com/HarshRohilla1/PG-Locator-)<br/>
 
-![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username=HarshRohilla1&theme=vue-dark&show_icons=true)
+![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username=harshrohilla1&theme=vue-dark&show_icons=true)
 
