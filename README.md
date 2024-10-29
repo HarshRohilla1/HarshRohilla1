@@ -3,7 +3,7 @@
 📚 Currently pursuing my bachelor of Technology in Computer Science field from Guru Jambheshwar University of Science and Technology<br/>
 👨🏻‍💻 I am an android dveloper, proficient in Kotlin and Jetpack Compose<br/>
 💭 Currently i am learning Ktor framework<br/>
-📍 My ongoing project in called a [PG Locator](https://github.com/HarshRohilla1/PG-Locator-)<br/>
+📍 My ongoing project is called [PG Locator](https://github.com/HarshRohilla1/PG-Locator-)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshrohilla.199) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-rohilla1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Harshro61990581) 
